@@ -4,7 +4,13 @@
       "symbol": "Vale S.A",
       "valorAtual": 58.50,
       "valorAlvo": 58.00
+    },
+	{
+      "symbol": "Petro S.A",
+      "valorAtual": 58.50,
+      "valorAlvo": 58.00
     }
+   
    
   ]
 }
